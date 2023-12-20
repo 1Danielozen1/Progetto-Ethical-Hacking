@@ -4,7 +4,7 @@ La velocità del programma è basta sulla velocità della CPU del PC attaccato.
 è consigliato eseguire il programma da chiavetta per evitare eventuali errori legati ai nomi delle cartelle presenti sul PC della vittima.
 
 COMANDO PER LA COMPILAZIONE IN .EXE (il file verrà salvato in una cartella chiamata "dist") :
-pyinstaller --onefile --noconsole ProgettoEducazioneCivica.py\
+pyinstaller --onefile --noconsole ProgettoEthical-Hacking.py\
 
 ## FUNZIONAMENTO
 - l’attaccante inserisce la chiavetta con il programma nel computer dell’attaccato.
